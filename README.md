@@ -1,4 +1,4 @@
-# React-redux-Toolkit-TODOAPP
+# React-redux-Toolkit-Todo
 
 steps
 1. clone repo
